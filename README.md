@@ -1,13 +1,8 @@
--
-  This is your group repo for your final project for COGS108.
--
-  This repostory is private, including to other students in the class, but visible to COGS108 instructors. 
--
-  This repository will be frozen on the due date - at 11:59pm on Tuesday, June 13th.
--
-  Your final project will be graded based solely on a project notebook.
--
-  Make sure you have a notebook called 'FinalProject.ipynb' present in this repository by the due date.
+Hey Reddit,
+
+Doing a group project for my Data Science class. We have cleaned all the data to the best of our abilities but my group and I lack the statistical knowledge to do anything worthy of showing to DJ Patil, former Cheif Data Scientist under the Obama Admin. If we do something interesting we can compete with other groups to show him our project but we've hit a wall. 
+
+Any recommendations/advice would be greatly apprieciated!
 
 # State-of-SD-Infrastructure
 COGS 108 - UCSD Final Project by:
